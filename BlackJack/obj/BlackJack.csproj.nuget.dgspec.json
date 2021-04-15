@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack-csharp\\BlackJack\\BlackJack.csproj": {}
+    "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack\\BlackJack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack-csharp\\BlackJack\\BlackJack.csproj": {
+    "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack\\BlackJack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack-csharp\\BlackJack\\BlackJack.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack\\BlackJack.csproj",
         "projectName": "BlackJack",
-        "projectPath": "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack-csharp\\BlackJack\\BlackJack.csproj",
+        "projectPath": "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack\\BlackJack.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack-csharp\\BlackJack\\obj\\",
+        "outputPath": "C:\\Users\\USER\\OneDrive - DOr Consultoria\\Documentos\\Cleber\\Faculdade\\Tecnicas de Programação\\BlackJack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
