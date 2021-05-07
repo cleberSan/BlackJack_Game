@@ -18,3 +18,23 @@ C:\Users\USER\OneDrive - DOr Consultoria\Documentos\Cleber\Faculdade\Tecnicas de
 C:\Users\USER\OneDrive - DOr Consultoria\Documentos\Cleber\Faculdade\Tecnicas de Programação\BlackJack\obj\Debug\net5.0-windows\ref\BlackJack.dll
 C:\Users\USER\OneDrive - DOr Consultoria\Documentos\Cleber\Faculdade\Tecnicas de Programação\BlackJack\obj\Debug\net5.0-windows\BlackJack.pdb
 C:\Users\USER\OneDrive - DOr Consultoria\Documentos\Cleber\Faculdade\Tecnicas de Programação\BlackJack\obj\Debug\net5.0-windows\BlackJack.genruntimeconfig.cache
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\bin\Debug\net5.0-windows\BlackJack.exe
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\bin\Debug\net5.0-windows\BlackJack.deps.json
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\bin\Debug\net5.0-windows\BlackJack.runtimeconfig.json
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\bin\Debug\net5.0-windows\BlackJack.runtimeconfig.dev.json
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\bin\Debug\net5.0-windows\BlackJack.dll
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\bin\Debug\net5.0-windows\ref\BlackJack.dll
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\bin\Debug\net5.0-windows\BlackJack.pdb
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.csprojAssemblyReference.cache
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.Form_jogo.resources
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.form_apresentacao.resources
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.Properties.Resources.resources
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.csproj.GenerateResource.cache
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.AssemblyInfoInputs.cache
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.AssemblyInfo.cs
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.dll
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\ref\BlackJack.dll
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.pdb
+C:\Users\lucas\Source\Repos\BlackJack_Game\BlackJack\obj\Debug\net5.0-windows\BlackJack.genruntimeconfig.cache

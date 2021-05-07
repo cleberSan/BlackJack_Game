@@ -183,6 +183,21 @@ namespace BlackJack
             btn_reiniciar.Enabled = true;
             resultado();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_Pontos_A_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form_jogo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 
 
