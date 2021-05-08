@@ -8,24 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lucas\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\rainb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\Source\\Repos\\BlackJack_Game\\BlackJack\\BlackJack.csproj",
+      "projectUniqueName": "C:\\Users\\rainb\\Desktop\\BlackJack_Game\\BlackJack\\BlackJack.csproj",
       "projectName": "BlackJack",
-      "projectPath": "C:\\Users\\lucas\\Source\\Repos\\BlackJack_Game\\BlackJack\\BlackJack.csproj",
-      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\Source\\Repos\\BlackJack_Game\\BlackJack\\obj\\",
+      "projectPath": "C:\\Users\\rainb\\Desktop\\BlackJack_Game\\BlackJack\\BlackJack.csproj",
+      "packagesPath": "C:\\Users\\rainb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rainb\\Desktop\\BlackJack_Game\\BlackJack\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\rainb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -68,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

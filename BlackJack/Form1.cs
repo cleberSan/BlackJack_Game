@@ -38,20 +38,43 @@ namespace BlackJack
              */
 
             if (pontos_A <= 21 && pontos_B <= 21)
+            {
                 if (pontos_A == pontos_B)
-                    lbl_Resultado.Text = "EMPATE";              //REGRA 5
-                else 
-                    if (pontos_A > pontos_B)
-                    lbl_Resultado.Text = "Jogador 1 Ganhou!";   //REGRA 1
+                {
+                    lbl_Resultado.Text = "EMPATE";
+                    System.Media.SoundPlayer playerEmp = new System.Media.SoundPlayer(@"empate.wav");
+                    playerEmp.Play();
+                }
+                    
+                //REGRA 5
+                else if (pontos_A > pontos_B)
+                {
+                    lbl_Resultado.Text = "Jogador 1 Ganhou!"; //REGRA 1
+                    System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"vitoria.wav");
+                    player.Play();
+                }
                 else
+                {
                     lbl_Resultado.Text = "Jogador 2 Ganhou!";   //REGRA 1
-
-            else if (pontos_A > pontos_B && pontos_B <= 21)     //REGRA 2
-                    lbl_Resultado.Text = "Jogador 2 Ganhou!";
+                    System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"vitoria.wav");
+                    player.Play();
+                }
+            }
+            else if (pontos_A > pontos_B && pontos_B <= 21) {
+                lbl_Resultado.Text = "Jogador 2 Ganhou!"; //REGRA 2
+                System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"vitoria.wav");
+                player.Play();
                 if (pontos_A <= 21 && pontos_B > 21)
                     lbl_Resultado.Text = "Jogador 1 ganhou!";   //REGRA 3
-                else 
-                    lbl_Resultado.Text = "SEM VENCEDOR!!";      //REGRA 4
+                    player.Play();
+            }     
+            else
+            {
+                lbl_Resultado.Text = "SEM VENCEDOR!!";      //REGRA 4
+                System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"derrota.wav");
+                player.Play();
+            }
+               
 
         }
 
@@ -87,8 +110,8 @@ namespace BlackJack
 
         private void button1_Click(object sender, EventArgs e)
         {
-
-
+            System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"carta.wav");
+            player.Play();
             Jogada(pictureBox1, 1);
 
 
@@ -119,6 +142,7 @@ namespace BlackJack
 
         private void button2_Click(object sender, EventArgs e)
         {
+            
             pontos_A = 0;
             pontos_B = 0;
             btn_jogar_1.Enabled = true;
@@ -138,6 +162,8 @@ namespace BlackJack
 
         private void btn_jogar_2_Click(object sender, EventArgs e)
         {
+            System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"carta.wav");
+            player.Play();
             //  ESCOLHER AS CARTAS
             Jogada(pictureBox2, 2);
 
